@@ -93,6 +93,7 @@ Me enfoco en responder preguntas clave de negocio como:
 
 - 🔗 Linkedin: www.linkedin.com/in/antonio-soto-analista-de-datos
 - 🔗 Correo: d.antonio.soto.m@gmail.com
+- 🔗 Portafolio: https://github.com/AntonioSoto-DataAnalyst/Portafolio-de-Proyectos-Analisis-de-Datos.git
 ---
 
 ## 💼 Disponibilidad

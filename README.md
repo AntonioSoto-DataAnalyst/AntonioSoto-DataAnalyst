@@ -62,6 +62,27 @@ Me enfoco en responder preguntas clave de negocio como:
 
 ---
 
+WA Sales Report - E-Commerce Dashboard en Excel 📊
+
+![Uploading image.png…](https://github.com/AntonioSoto-DataAnalyst/WA_Sales_Report_-_E-Commerce_Dashboard_en_Excel/blob/main/Ventas%20d1.png)
+
+Este proyecto demuestra la capacidad de procesar volúmenes de datos comerciales para extraer métricas de rentabilidad claras. La interactividad del dashboard permite a los tomadores de decisiones identificar rápidamente qué canales de venta, regiones o líneas de productos son los más lucrativos.
+
+**Herramientas Tecnológicas Utilizadas**
+Microsoft Excel:
+
+- Limpieza y modelado de datos.
+
+- Tablas Dinámicas (Pivot Tables) para la agregación de datos.
+
+- Gráficos Dinámicos y Segmentadores de datos.
+
+- Fórmulas avanzadas para el cálculo de márgenes y KPIs.
+
+- 🔗 https://github.com/AntonioSoto-DataAnalyst/WA_Sales_Report_-_E-Commerce_Dashboard_en_Excel.git
+
+---
+
 ## 🧠 Habilidades
 
 **Análisis de Datos**
@@ -81,25 +102,6 @@ Me enfoco en responder preguntas clave de negocio como:
 
 ---
 
-WA Sales Report - E-Commerce Dashboard en Excel 📊
-
-![Uploading image.png…](https://github.com/AntonioSoto-DataAnalyst/WA_Sales_Report_-_E-Commerce_Dashboard_en_Excel/blob/main/Ventas%20d1.png)
-
-Este proyecto demuestra la capacidad de procesar volúmenes de datos comerciales para extraer métricas de rentabilidad claras. La interactividad del dashboard permite a los tomadores de decisiones identificar rápidamente qué canales de venta, regiones o líneas de productos son los más lucrativos.
-
-**Herramientas Tecnológicas Utilizadas**
-Microsoft Excel:
-
-- Limpieza y modelado de datos.
-
-- Tablas Dinámicas (Pivot Tables) para la agregación de datos.
-
-- Gráficos Dinámicos y Segmentadores de datos.
-
-- Fórmulas avanzadas para el cálculo de márgenes y KPIs.
-
-
----
 
 ## 🎓 Formación
 

@@ -63,7 +63,7 @@ Me enfoco en responder preguntas clave de negocio como:
 ---
 
 ###  🔹 HR Analytics Dashboard - Optimización de Reportes de Rotación 📊
-<img width="1132" height="615" alt="image (2)" src="[https://github.com/user-attachments/assets/dfcbc40f-f4f0-4ef0-b2d2-074e6927a385](https://raw.githubusercontent.com/AntonioSoto-DataAnalyst/HR_Analytics_Dashboard-Rotacion_de_Personal/11439c57ae398de82bbc7ee50946dd234c49387c/HR%20rotacion%20.png)" />
+<img width="1132" height="615" alt="image (2)" src="https://raw.githubusercontent.com/AntonioSoto-DataAnalyst/HR_Analytics_Dashboard-Rotacion_de_Personal/11439c57ae398de82bbc7ee50946dd234c49387c/HR%20rotacion%20.png" />
  ** Descripción del Proyecto** 
 Este proyecto es una solución analítica desarrollada en Microsoft Excel para el departamento de Recursos Humanos de una empresa de comercio electrónico (caso práctico de A2 Capacitación). El objetivo principal fue automatizar y unificar el reporte de métricas de contratación y rotación de personal.
 

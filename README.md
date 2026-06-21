@@ -62,9 +62,39 @@ Me enfoco en responder preguntas clave de negocio como:
 
 ---
 
-WA Sales Report - E-Commerce Dashboard en Excel 📊
+###  🔹 HR Analytics Dashboard - Optimización de Reportes de Rotación 📊
+<img width="1132" height="615" alt="image (2)" src="<img width="1132" height="615" alt="image (2)" src="https://github.com/user-attachments/assets/dfcbc40f-f4f0-4ef0-b2d2-074e6927a385" />
+ ** Descripción del Proyecto** 
+Este proyecto es una solución analítica desarrollada en Microsoft Excel para el departamento de Recursos Humanos de una empresa de comercio electrónico (caso práctico de A2 Capacitación). El objetivo principal fue automatizar y unificar el reporte de métricas de contratación y rotación de personal.
 
-![Uploading image.png…](https://github.com/AntonioSoto-DataAnalyst/WA_Sales_Report_-_E-Commerce_Dashboard_en_Excel/blob/main/Ventas%20d1.png)
+**Solución y Características del Dashboard**
+Se desarrolló un panel de control interactivo que permite a cualquier jefe de área consultar sus propios indicadores. Las características clave incluyen:
+
+- KPIs de Talento: Seguimiento exacto del Número de Contrataciones (820), Ubicaciones, Liberados y Bajas, con sus respectivos porcentajes de efectividad y rotación global (28.17%).
+
+- Benchmarking de Industria: Comparativa visual del índice de bajas diurnas (27%) y nocturnas (37%) contra la media nacional del sector logístico (23% y 60% respectivamente).
+
+- Análisis Competitivo: Tabla dinámica que mide el desempeño de contrataciones por ciudad frente al principal competidor (Tiendas Manchester).
+
+- Análisis de Tendencias: Gráfico de líneas detallando la fluctuación mensual de la rotación para identificar picos de bajas.
+
+- Interactividad Total: Segmentadores de datos (Slicers) multidimensionales por "Almacén" y "Área" para un filtrado dinámico e instantáneo.
+
+**Herramientas Utilizadas**
+- Microsoft Excel: * Modelado y limpieza de datos estructurados.
+
+- Tablas y Gráficos Dinámicos.
+
+- Fórmulas avanzadas para el cálculo de índices de rotación y porcentajes de retención.
+
+- Diseño de interfaz de usuario (UI) orientada a la toma de decisiones gerenciales.
+
+
+---
+
+### 🔹 WA Sales Report - E-Commerce Dashboard en Excel 📊
+
+<img width="1132" height="615" alt="image (2)" src="https://github.com/AntonioSoto-DataAnalyst/WA_Sales_Report_-_E-Commerce_Dashboard_en_Excel/blob/main/Ventas%20d1.png" /> 
 
 Este proyecto demuestra la capacidad de procesar volúmenes de datos comerciales para extraer métricas de rentabilidad claras. La interactividad del dashboard permite a los tomadores de decisiones identificar rápidamente qué canales de venta, regiones o líneas de productos son los más lucrativos.
 

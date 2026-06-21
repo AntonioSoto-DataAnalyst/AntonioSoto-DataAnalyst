@@ -89,6 +89,7 @@ Se desarrolló un panel de control interactivo que permite a cualquier jefe de �
 
 - Diseño de interfaz de usuario (UI) orientada a la toma de decisiones gerenciales.
 
+- 🔗 https://github.com/AntonioSoto-DataAnalyst/HR_Analytics_Dashboard-Rotacion_de_Personal.git
 
 ---
 

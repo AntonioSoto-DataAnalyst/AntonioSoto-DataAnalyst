@@ -20,6 +20,21 @@ Me enfoco en responder preguntas clave de negocio como:
 
 ## 📊 Proyectos Destacados
 
+### Payroll Projection Dashboard - Análisis de Escenarios Salariales 📊
+
+![Uploading image.png…](https://github.com/AntonioSoto-DataAnalyst/Payroll_Projection_Dashboard-An-lisis_de_Escenarios_Salariales/blob/main/proyeccion%20de%20nomina%20.png)
+
+**Descripción del Proyecto**
+Este proyecto consiste en un modelo de análisis financiero y de recursos humanos desarrollado en Microsoft Excel. El objetivo principal fue evaluar y comparar el impacto financiero de dos políticas distintas de incremento salarial para la filial mexicana de una empresa multinacional de TI.
+
+**El Problema de Negocio**
+La empresa se enfrentaba a una decisión estratégica sobre cómo aplicar su presupuesto de nómina para el próximo año, teniendo dos enfoques sobre la mesa:
+- El Plan Americano: Una estrategia basada en el rendimiento que propone despedir a los empleados con la calificación más baja (nivel 1) y otorgar el doble de aumento a los de mayor desempeño (niveles 4 y 5).
+- El Plan Mexicano: Una estrategia igualitaria de retención total, otorgando el mismo porcentaje de aumento a toda la plantilla sin realizar despidos.
+📈 **Impacto:** La conclusión estratégica dictaminó que, debido a los onerosos costos de indemnización exigidos por la ley, el plan basado en despidos es sustancialmente más caro durante el primer año, aunque las proyecciones a largo plazo indican que el modelo de retención igualitaria terminará superando estos costos con el paso del tiempo.
+- 🔗 https://github.com/AntonioSoto-DataAnalyst/Payroll_Projection_Dashboard-An-lisis_de_Escenarios_Salariales.git 
+---
+
 ### 🔹 Análisis de KPIs y Segmentación de Clientes
 <img width="993" height="781" alt="kpis" src="https://github.com/user-attachments/assets/04150dff-5379-4a2f-a6ac-6faddc42b70f" />
 

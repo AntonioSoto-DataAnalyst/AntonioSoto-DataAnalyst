@@ -31,6 +31,7 @@ Este proyecto consiste en un modelo de análisis financiero y de recursos humano
 La empresa se enfrentaba a una decisión estratégica sobre cómo aplicar su presupuesto de nómina para el próximo año, teniendo dos enfoques sobre la mesa:
 - El Plan Americano: Una estrategia basada en el rendimiento que propone despedir a los empleados con la calificación más baja (nivel 1) y otorgar el doble de aumento a los de mayor desempeño (niveles 4 y 5).
 - El Plan Mexicano: Una estrategia igualitaria de retención total, otorgando el mismo porcentaje de aumento a toda la plantilla sin realizar despidos.
+
 📈 **Impacto:** La conclusión estratégica dictaminó que, debido a los onerosos costos de indemnización exigidos por la ley, el plan basado en despidos es sustancialmente más caro durante el primer año, aunque las proyecciones a largo plazo indican que el modelo de retención igualitaria terminará superando estos costos con el paso del tiempo.
 - 🔗 https://github.com/AntonioSoto-DataAnalyst/Payroll_Projection_Dashboard-An-lisis_de_Escenarios_Salariales.git 
 ---

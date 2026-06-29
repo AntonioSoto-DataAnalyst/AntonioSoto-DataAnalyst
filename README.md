@@ -32,7 +32,7 @@ Se formularon reglas de negocio complejas para extraer métricas financieras pre
 - Proyección de Promociones: Se calculó el impacto financiero de regalar días extra a visitantes frecuentes (1 día por 7-8 visitas, 2 días por 9 visitas) y el costo potencial de subsidiar rentas de equipo por $30 USD a compradores fuera de temporada.
 - Cálculo de Comisiones: Automatización del pago de comisiones fijas ($15 USD) a parques de la red HEROIC no tabulados.
 
-- 🔗 https://github.com/AntonioSoto-DataAnalyst/Ski_Resort_Analytics-Dashboard_Financiero_y_Operativo.git
+🔗 https://github.com/AntonioSoto-DataAnalyst/Ski_Resort_Analytics-Dashboard_Financiero_y_Operativo.git
   
 ---
 
